@@ -22,6 +22,6 @@ module.exports = {
     },
   },
   plugins: ["react", "@typescript-eslint", "prettier"],
-  rules: { "react/react-in-jsx-scope": "off" },
   reportUnusedDisableDirectives: true,
+  rules: { "react/react-in-jsx-scope": "off" },
 };
