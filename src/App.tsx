@@ -1,5 +1,6 @@
 function App() {
-  return <div>Hello World!</div>;
+  const count = 1;
+  return <div>Hello World! {count}</div>;
 }
 
 export default App;
