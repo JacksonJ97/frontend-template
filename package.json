@@ -16,7 +16,8 @@
     "*.{js,jsx,ts,tsx}": [
       "bash -c tsc -p tsconfig.json --noEmit",
       "npm run format",
-      "npm run lint:fix"
+      "npm run lint:fix",
+      "git add"
     ],
     "*.{html,css}": [
       "npm run format"
