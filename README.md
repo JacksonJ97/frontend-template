@@ -6,6 +6,7 @@ A lightweight frontend template that can be used to start up a frontend applicat
 
 - React
 - Typescript
+- Tailwind CSS
 - Vite
 
 ## Configs
