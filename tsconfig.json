@@ -18,9 +18,9 @@
   },
   "include": [
     "src",
-    ".eslintrc.cjs",
-    "postcss.config.cjs",
-    "tailwind.config.cjs"
+    ".eslintrc.json",
+    "postcss.config.js",
+    "tailwind.config.js"
   ],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
