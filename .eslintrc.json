@@ -21,14 +21,12 @@
       "jsx": true
     }
   },
-  "plugins": [
-    "react",
-    "@typescript-eslint",
-    "prettier"
-  ],
+  "plugins": ["react", "@typescript-eslint", "prettier"],
   "reportUnusedDisableDirectives": true,
   "rules": {
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "no-unused-vars": 1,
+    "no-console": 1,
+    "prefer-const": 2
   }
 }
-
