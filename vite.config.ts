@@ -10,4 +10,11 @@ export default defineConfig({
   build: {
     outDir: "build",
   },
+  resolve: {
+    alias: {
+      "core/assets": "./src/core/assets",
+      "core/components": "./src/core/components",
+      "core/utils": "./src/core/utils",
+    },
+  },
 });
