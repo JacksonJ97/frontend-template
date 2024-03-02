@@ -11,7 +11,7 @@ A lightweight frontend template that can be used to start up a frontend applicat
 
 ## To-Do
 
-[] - Add Pre-commit
-[] - Test if accessibility eslint rules work (eslint jsx-a11y)
-[] - Make incorrect import paths error (eslint import)
-[] - Make sure prettier works
+[] Add Pre-commit
+[] Test if accessibility eslint rules work (eslint jsx-a11y)
+[] Make incorrect import paths error (eslint import)
+[] Make sure prettier works
